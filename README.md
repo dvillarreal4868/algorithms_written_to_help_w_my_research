@@ -1,2 +1,2 @@
-# rna_related_algorithms
-Scripts I've written to help me better understand RNA
+# Algorithms
+Scripts I've written to help me better understand RNA and Protein
